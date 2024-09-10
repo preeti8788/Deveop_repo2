@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+This is developer B
+=======
+ This is Developer A
+>>>>>>> branch2
+=======
 This is developer A
+>>>>>>> branch2
